@@ -36,3 +36,6 @@ and partitioned like the bellow structure
 ```
 data/partitions/<date field YEAR>/<date field MONTH>/<date field DAY>/<filename>_<date field YEAR><date field MONTH><date field DAY>
 ```
+
+After executing the command, the data will be presented like so (the actual dates / data may vary, since its randomly generated)
+![image](https://github.com/user-attachments/assets/0f81267b-8055-4e23-b7b6-94989f04b91d)
